@@ -7,7 +7,7 @@ This project was created to practice real-world frontend development by designin
 
 ## 🌐 Live Preview
  
-👉 https://abolcoffee.netlify.app/ 
+👉 https://abolcoffeehouse.netlify.app/ 
 
 ![Homepage Screenshot](img/Homepage%20Screenshot.png)
 
